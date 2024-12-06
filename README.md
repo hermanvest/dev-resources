@@ -31,6 +31,8 @@ You will learn these basic things about Spring.
 
 ## 4. Kafka
 
+Intro: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
 Kafka is important because...
 
 ## 5. Architetcture course
