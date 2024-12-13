@@ -2,6 +2,12 @@
 
 This repository contains the resources I have used to get up to speed when working on different projects. I recommend that you follow the order of topics as outlined below. You will be able to find relevant resources in the directories. 
 
+## 0. Primer/intro
+
+Challenges of being a developer and how to handle some of them. Mostly about mindset.
+
+1. You don't know what challenges you will face. Just start developing and discover them later. It is better to develop fast and discover fast than trying to plan and not do anything
+2. 
 
 ## 1. JAVA OCP Developer books
 
