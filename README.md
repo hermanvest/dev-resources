@@ -35,12 +35,16 @@ Spring is important because...
 
 You will learn these basic things about Spring.
 
-## 4. Kafka
+## 4. CQRS Event sourcing
+
+https://www.youtube.com/watch?v=8JKjvY4etTY 
+
+## 5. Kafka
 
 Intro: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 Kafka is important because...
 
-## 5. Architetcture course
+## 6. Architetcture course
 
 https://www.bouvet.no/kurs/kategorier/utvikling-for-web-og-mobil/implementing-modern-architecture
