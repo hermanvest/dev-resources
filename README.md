@@ -45,6 +45,11 @@ Intro: https://engineering.linkedin.com/distributed-systems/log-what-every-softw
 
 Kafka is important because...
 
+Free ebook on kafka by Confluent: https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/
+
+Check out "Kafka Certified Developer" by "A Cloud Guru" on Pluralsight. Go here to access the playground (formerly Linux academy) : https://help.pluralsight.com/hc/en-us/articles/24564263824404-Hands-on-playground-overview#access
+
+
 ## 6. Architetcture course
 
 https://www.bouvet.no/kurs/kategorier/utvikling-for-web-og-mobil/implementing-modern-architecture
