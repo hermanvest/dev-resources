@@ -47,7 +47,7 @@ Kafka is important because...
 
 Free ebook on kafka by Confluent: https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/
 
-Check out "Kafka Certified Developer" by "A Cloud Guru" on Pluralsight. Go here to access the playground (formerly Linux academy): (playground)[https://help.pluralsight.com/hc/en-us/articles/24564263824404-Hands-on-playground-overview#access] and choose "sign in with pluralsight credentials". You should probably view the tutorial from (here)[https://learn.acloud.guru/], as they have updated links to the resources.
+Check out "Kafka Certified Developer" by "A Cloud Guru" on Pluralsight. Go here to access the playground (formerly Linux academy): [playground](https://help.pluralsight.com/hc/en-us/articles/24564263824404-Hands-on-playground-overview#access) and choose "sign in with pluralsight credentials". You should probably view the tutorial from [here](https://learn.acloud.guru/), as they have updated links to the resources.
 
 
 ## 6. Architetcture course
