@@ -40,8 +40,9 @@ You will learn these basic things about Spring.
 https://www.youtube.com/watch?v=8JKjvY4etTY 
 
 ## 5. Kafka
+(Summary from chatGPT) Apache Kafka is a must-learn for new developers because it empowers you to handle real-time data streams efficiently, a crucial skill in today's data-driven world. Its scalable, distributed architecture and advanced stream processing capabilities make it ideal for building robust, high-performance applications. Learning Kafka opens doors to opportunities in top companies and equips you with the tools to manage and process data streams effectively, making you a valuable asset in any tech team.
 
-Intro: [Kafka's fødsel](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+Kafka was originally developed at LinkedIn. As an introduciton, I recommend that you read [this](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 Kafka is important because...
 
