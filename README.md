@@ -45,9 +45,9 @@ Intro: [Kafka's fødsel](https://engineering.linkedin.com/distributed-systems/lo
 
 Kafka is important because...
 
-Free ebook on kafka by Confluent: https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/
-
 Check out "Kafka Certified Developer" by "A Cloud Guru" on Pluralsight. Go here to access the playground (formerly Linux academy): [playground](https://help.pluralsight.com/hc/en-us/articles/24564263824404-Hands-on-playground-overview#access) and choose "sign in with pluralsight credentials". You should probably view the tutorial from [here](https://learn.acloud.guru/), as they have updated links to the resources.
+
+Now might be the time to do some reading. Check out this free ebook on kafka by Confluent: https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/
 
 After that, you might want to check out: [Apache Kafka Deep Dive](https://learn.acloud.guru/course/bf0aeafb-8bc4-4082-bd3a-00972349b6c0/overview)
 
