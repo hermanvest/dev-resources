@@ -2,6 +2,8 @@
 
 This repository contains the resources I have used to get up to speed when working on different projects. I recommend that you follow the order of topics as outlined below. You will be able to find relevant resources in the directories. 
 
+[Roadmap for backend developers](https://roadmap.sh/backend)
+
 ## 0. Primer/intro
 
 Challenges of being a developer and how to handle some of them. Mostly about mindset.
