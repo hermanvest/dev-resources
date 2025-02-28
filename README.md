@@ -27,7 +27,7 @@ As a new developer, learning about containers is essential because you'll inevit
 
 1. Course on Podman in [pluralsight](https://app.pluralsight.com/library/courses/podman-getting-started/table-of-contents)
 
-## 2. Quick intro to modern architecture
+## 3. Quick intro to modern architecture
 
 This is important as you will start developing the mental framework necessary to build well structured and functioning applications. It will also help you better understand why we do certain things in the following courses and make you better suited for communicating with architects and stakeholders.
 
@@ -35,17 +35,17 @@ DDD, Tactical DDD and strategic DDD.
 
 Loose coupling in practice: what does it mean and how do we achieve it?
 
-## 3. Spring boot
+## 4. Spring boot
 
 Spring is important because...
 
 You will learn these basic things about Spring.
 
-## 4. CQRS Event sourcing
+## 5. CQRS Event sourcing
 
 https://www.youtube.com/watch?v=8JKjvY4etTY 
 
-## 5. Kafka
+## 6. Kafka
 (Summary from chatGPT) Apache Kafka is a must-learn for new developers because it empowers you to handle real-time data streams efficiently, a crucial skill in today's data-driven world. Its scalable, distributed architecture and advanced stream processing capabilities make it ideal for building robust, high-performance applications. Learning Kafka opens doors to opportunities in top companies and equips you with the tools to manage and process data streams effectively, making you a valuable asset in any tech team.
 
 Introduction to event-driven design (4 articles by [confluent](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/))
@@ -62,6 +62,6 @@ The following are steps I took to start learning about Apache Kafka:
 4. Practice resources: https://quizlet.com/573725773/apache-kafka-ccdak-study-guide-combined-notes-flash-cards/, https://quizlet.com/fr/931742490/ccdak-apache-kafka-flash-cards/ og andre mock exams på UDEMY
 
 
-## 6. Architetcture course
+## 7. Architetcture course
 
 https://www.bouvet.no/kurs/kategorier/utvikling-for-web-og-mobil/implementing-modern-architecture
