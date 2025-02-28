@@ -21,6 +21,12 @@ It is one of two languages you are likely to be working with once in a project. 
 
 Builds on the knowledge you have gained in the first module. Transitioning to Kotlin is no big task and much of the syntax is similar.
 
+## 2. Working with containers
+
+As a new developer, learning about containers is essential because you'll inevitably encounter them in your career. Containers are the foundation of many modern applications, and understanding them will make you more efficient and versatile as a developer. They allow you to package and run applications consistently across different environments, without the need for special access or complicated setup. This flexibility makes containers an invaluable tool, ensuring your code works seamlessly no matter where it’s deployed. So, whether you’re excited about it or not, mastering containers will help you stay ahead in the software development world.
+
+1. Course on Podman in [pluralsight](https://app.pluralsight.com/library/courses/podman-getting-started/table-of-contents)
+
 ## 2. Quick intro to modern architecture
 
 This is important as you will start developing the mental framework necessary to build well structured and functioning applications. It will also help you better understand why we do certain things in the following courses and make you better suited for communicating with architects and stakeholders.
