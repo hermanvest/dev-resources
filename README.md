@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=8JKjvY4etTY
 ## 5. Kafka
 (Summary from chatGPT) Apache Kafka is a must-learn for new developers because it empowers you to handle real-time data streams efficiently, a crucial skill in today's data-driven world. Its scalable, distributed architecture and advanced stream processing capabilities make it ideal for building robust, high-performance applications. Learning Kafka opens doors to opportunities in top companies and equips you with the tools to manage and process data streams effectively, making you a valuable asset in any tech team.
 
+Introduction to event-driven design (article by [confluent](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/))
+
 Kafka was originally developed at LinkedIn. As an introduciton, I recommend that you read [this](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 The following are steps I took to start learning about Apache Kafka:
@@ -50,6 +52,8 @@ The following are steps I took to start learning about Apache Kafka:
 2. Now might be the time to do some reading. Check out this free ebook on kafka by Confluent: https://www.confluent.io/resources/ebook/kafka-the-definitive-guide/
 
 3. After that, you might want to check out: [Apache Kafka Deep Dive](https://learn.acloud.guru/course/bf0aeafb-8bc4-4082-bd3a-00972349b6c0/overview)
+
+4. Practice resources: https://quizlet.com/573725773/apache-kafka-ccdak-study-guide-combined-notes-flash-cards/, https://quizlet.com/fr/931742490/ccdak-apache-kafka-flash-cards/ og andre mock exams på UDEMY
 
 
 ## 6. Architetcture course
