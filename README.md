@@ -37,11 +37,22 @@ DDD, Tactical DDD and strategic DDD.
 
 Loose coupling in practice: what does it mean and how do we achieve it?
 
-## 4. Spring boot
+## 4. Spring boot + IntelliJ
 
 Spring is important because...
 
-You will learn these basic things about Spring.
+You will learn these basic things about Spring:
+* Beans beans beans (1. Java annotations, 2. How Spring Manages Beans, 3. Dependency Injection and config files)
+* How to set up a simple REST controller, run it, test with intellij client, set up tests for the controller and what kinds of tests are nice for controllers
+* A reminder on how to structure a web service (patterns best practices and so on)
+
+Nice to know in intellij when working with Spring or in general:
+* Git in IntelliJ
+* The built in web client
+* A note on testing (@SpringBootTest, mocks etc.)
+* Test coverage plugin
+* Copilot?
+* Shortcuts you should know
 
 ## 5. CQRS Event sourcing
 
