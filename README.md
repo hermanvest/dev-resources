@@ -73,6 +73,7 @@ The following are steps I took to start learning about Apache Kafka:
 3. After that, you might want to check out: [Apache Kafka Deep Dive](https://learn.acloud.guru/course/bf0aeafb-8bc4-4082-bd3a-00972349b6c0/overview)
 
 4. Practice resources: https://quizlet.com/573725773/apache-kafka-ccdak-study-guide-combined-notes-flash-cards/, https://quizlet.com/fr/931742490/ccdak-apache-kafka-flash-cards/ og andre mock exams på UDEMY
+5. https://github.com/danielsobrado/CCDAK-Exam-Questions 
 
 
 ## 7. Architetcture course
