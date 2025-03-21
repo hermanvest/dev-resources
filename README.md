@@ -63,6 +63,8 @@ https://www.youtube.com/watch?v=8JKjvY4etTY
 
 Introduction to event-driven design (4 articles by [confluent](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/))
 
+Introduction to data mesh by [confluent](https://www.youtube.com/watch?v=nhgsgvELJ_E&list=PLa7VYi0yPIH0L8ahQYbyBFkGc6a949-Lj&index=1)
+
 Kafka was originally developed at LinkedIn. As an introduciton, I recommend that you read [this](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 The following are steps I took to start learning about Apache Kafka:
@@ -74,7 +76,6 @@ The following are steps I took to start learning about Apache Kafka:
 
 4. Practice resources: https://quizlet.com/573725773/apache-kafka-ccdak-study-guide-combined-notes-flash-cards/, https://quizlet.com/fr/931742490/ccdak-apache-kafka-flash-cards/ og andre mock exams på UDEMY
 5. https://github.com/danielsobrado/CCDAK-Exam-Questions 
-
 
 ## 7. Architetcture course
 
